@@ -1,0 +1,15 @@
+C:\Users\Светлана\Desktop\Again\bin\BPC\Debug\net6.0\Again.exe
+C:\Users\Светлана\Desktop\Again\bin\BPC\Debug\net6.0\Again.deps.json
+C:\Users\Светлана\Desktop\Again\bin\BPC\Debug\net6.0\Again.runtimeconfig.json
+C:\Users\Светлана\Desktop\Again\bin\BPC\Debug\net6.0\Again.dll
+C:\Users\Светлана\Desktop\Again\bin\BPC\Debug\net6.0\Again.pdb
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.csproj.AssemblyReference.cache
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.AssemblyInfoInputs.cache
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.AssemblyInfo.cs
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.dll
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\refint\Again.dll
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.pdb
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\Again.genruntimeconfig.cache
+C:\Users\Светлана\Desktop\Again\obj\BPC\Debug\net6.0\ref\Again.dll
